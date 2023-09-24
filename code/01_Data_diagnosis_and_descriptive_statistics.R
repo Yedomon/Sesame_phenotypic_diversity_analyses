@@ -1,5 +1,5 @@
 ##--Script for data diagnosis and descriptive statistics
-##--By Yedomon Ange Bovys Zoclanclounon | Twitter: @AngeBovys27
+##--By Yedomon Ange Bovys Zoclanclounon | Twitter: @AngeOmics
 ##--12.03.2021
 ##--National Institute of Agricultural Sciences | Department of Genomics |RDA | Republic of South Korea
 
@@ -16,7 +16,7 @@ data_nqr1 = read.csv("data_nqr1.csv", h=T)
 data_capsule_length_width = read.csv("capsule_length_and_width.csv", h=T)
 
 
-### Check the presence of outliers, the normality distribution and perform the Shapiro-Wilf analysis for normality test
+### Check the presence of outliers, data distribution, and perform the Shapiro-Wilk analysis for the normality test
 
 
 find_outliers(data_nqr1)
