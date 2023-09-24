@@ -1,5 +1,11 @@
 ## Sesame germplasm phenotypic diversity analyses
 
+
+Please refer to the following zenodo link for proper citation: 
+
+[![DOI](https://github.com/Yedomon/Sesame_phenotypic_diversity_analyses/blob/main/zenodo.8373659.svg)](https://zenodo.org/badge/latestdoi/695795985) 
+
+
 The present repository contained two folders corresponding to the [data](https://github.com/Yedomon/Sesame_phenotypic_diversity_analyses/tree/main/data) sets and the [R codes](https://github.com/Yedomon/Sesame_phenotypic_diversity_analyses/tree/main/code).
 
 
