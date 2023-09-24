@@ -1,14 +1,6 @@
 ## Sesame germplasm phenotypic diversity analyses
 
-The present repository contains the data and codes used for Korean sesame germplasm phenotypic analyses.
-
-
-Please refer to the following zenodo link for proper citation: 
-
-[![DOI](https://github.com/Yedomon/Yedomon-Genome_Assembly_Fusarium_oxysporum_f.sp._sesami/blob/main/zenodo.4717617.svg)](https://zenodo.org/badge/latestdoi/322282589) 
-
-
-The repository contained two folders corresponding to the [data](https://github.com/Yedomon/Sesame_phenotypic_diversity_analyses/tree/main/data) sets and the [R codes](https://github.com/Yedomon/Sesame_phenotypic_diversity_analyses/tree/main/code).
+The present repository contained two folders corresponding to the [data](https://github.com/Yedomon/Sesame_phenotypic_diversity_analyses/tree/main/data) sets and the [R codes](https://github.com/Yedomon/Sesame_phenotypic_diversity_analyses/tree/main/code).
 
 
 The R scripts are organized as follows:
