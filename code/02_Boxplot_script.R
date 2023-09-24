@@ -1,5 +1,5 @@
 ##--Script for boxplot
-##--By Yedomon Ange Bovys Zoclanclounon | Twitter: @AngeBovys27
+##--By Yedomon Ange Bovys Zoclanclounon | Twitter: @AngeOmics
 ##--12.03.2021
 ##--National Institute of Agricultural Sciences | Department of Genomics | Department of Genomics |RDA | Republic of South Korea
 
