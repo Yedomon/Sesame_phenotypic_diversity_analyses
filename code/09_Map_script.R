@@ -1,5 +1,5 @@
 ## Drawing map of core and whole collection
-## By Yedomon Ange Bovys Zoclanclounon | Twitter: @AngeBoys27
+## By Yedomon Ange Bovys Zoclanclounon | Twitter: @AngeOmics
 ## 18.03.2021
 ## National Institute of Agricultural Sciences | Department of Genomics | RDA | Republic of Korea
 
