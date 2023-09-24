@@ -1,0 +1,34 @@
+Region,Cluster,Percentage
+Central Africa,Cluster1,5.586592179
+Eastern Africa,Cluster1,20.67039106
+Eastern Asia,Cluster1,1.675977654
+Eurasia,Cluster1,0.558659218
+Middle East,Cluster1,1.675977654
+Northern Africa,Cluster1,44.13407821
+Northern America,Cluster1,1.675977654
+Southern Africa,Cluster1,0.558659218
+Southern Asia,Cluster1,8.379888268
+Unknown,Cluster1,1.117318436
+Western Africa,Cluster1,13.96648045
+Central Africa,Cluster2,1.904761905
+Eastern Africa,Cluster2,13.33333333
+Eastern Asia,Cluster2,10.47619048
+Eurasia,Cluster2,1.904761905
+Middle East,Cluster2,7.142857143
+Northern Africa,Cluster2,41.9047619
+Northern America,Cluster2,1.904761905
+Southern Africa,Cluster2,1.428571429
+Southern America,Cluster2,1.428571429
+Southern Asia,Cluster2,9.047619048
+Unknown,Cluster2,2.857142857
+Western Africa,Cluster2,6.666666667
+Eastern Africa,Cluster3,3.418803419
+Eastern Asia,Cluster3,69.23076923
+Eurasia,Cluster3,0.854700855
+Middle East,Cluster3,2.564102564
+Northern Africa,Cluster3,13.67521368
+Northern America,Cluster3,2.564102564
+Southern Africa,Cluster3,1.709401709
+Southern Asia,Cluster3,0.854700855
+Unknown,Cluster3,3.418803419
+Western Africa,Cluster3,1.709401709
