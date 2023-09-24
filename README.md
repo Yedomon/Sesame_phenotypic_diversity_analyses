@@ -2,45 +2,41 @@
 
 The present repository contains the data and codes used for Korean sesame germplasm phenotypic analyses.
 
-This study was carried out with the support the Cooperative Research Program for National Agricultural Genome Program (Project No. PJ01347002), Rural Development Administration, South Korea.
-
-
 
 Please refer to the following zenodo link for proper citation: 
 
 [![DOI](https://github.com/Yedomon/Yedomon-Genome_Assembly_Fusarium_oxysporum_f.sp._sesami/blob/main/zenodo.4717617.svg)](https://zenodo.org/badge/latestdoi/322282589) 
 
 
-The repository contained two forlders corresponding to the data sets and the R codes.
+The repository contained two folders corresponding to the [data](https://github.com/Yedomon/Sesame_phenotypic_diversity_analyses/tree/main/data) sets and the [R codes](https://github.com/Yedomon/Sesame_phenotypic_diversity_analyses/tree/main/code).
+
 
 The R scripts are organized as follows:
 
 
+#### [01. Data diagnosis and descriptive statistics](https://github.com/Yedomon/Sesame_phenotypic_diversity_analyses/blob/main/code/01_Data_diagnosis_and_descriptive_statistics.R)
 
-#### [01. Data diagnosis and descriptive statistics](https://github.com/Yedomon/Yedomon-Genome_Assembly_Fusarium_oxysporum_f.sp._sesami/tree/main/01.Genome_size_estimation)
+#### [02. Boxplot representation of the quantitative data](https://github.com/Yedomon/Sesame_phenotypic_diversity_analyses/blob/main/code/02_Boxplot_script.R)
 
-#### [02. Boxplot representation of the quantitative data]()
+#### [03. Pie chart representation of the qualitative data](https://github.com/Yedomon/Sesame_phenotypic_diversity_analyses/blob/main/code/03_Pie_chart.R)
 
-#### [03. Pie chart representation of the qualitative data]()
+#### [04. Diversity index calculation](https://github.com/Yedomon/Sesame_phenotypic_diversity_analyses/blob/main/code/04_diversity_index_script.R)
 
-#### [04. Diversity index calculation]()
+#### [05. Correlation between the phenotypic variables](https://github.com/Yedomon/Sesame_phenotypic_diversity_analyses/blob/main/code/05_correlation_script.R)
 
-#### [05. Correlation between the phenotypic variables]()
+#### [06. Path coefficient analysis](https://github.com/Yedomon/Sesame_phenotypic_diversity_analyses/blob/main/code/06_path_coefficient_analysis.R)
 
-#### [06. Path coefficient analysis]()
+#### [07. Principal correspondence analysis and hierarchical clustering](https://github.com/Yedomon/Sesame_phenotypic_diversity_analyses/blob/main/code/07_Principal_component_analysis_and_clustering.R)
 
-#### [07. Principal correspondence analysis and hierarchical clustering]()
+#### [08. Core collection inference](https://github.com/Yedomon/Sesame_phenotypic_diversity_analyses/blob/main/code/08_Core_collection_inference.R)
 
-#### [08. Core collection inference]()
-
-#### [09. Geographic Information System (GIS) mapping]()
+#### [09. Geographic Information System (GIS) mapping](https://github.com/Yedomon/Sesame_phenotypic_diversity_analyses/blob/main/code/09_Map_script.R)
 
 
 >  For reproducibility, please consider some changes in the working directories.
 
 
-#### Reference
+#### Acknowledgements
 
-The supporting research article is published in xxxx and can be cited as follows:
+This study was carried out with the support of the Cooperative Research Program for National Agricultural Genome Program (Project No. PJ01347002), Rural Development Administration, South Korea.
 
-xxxx
